@@ -1,12 +1,13 @@
-## Hi there 👋
+## Welcome to AnyaStudios
 
-<!--
+AnyaStudios was founded in 2024 and currently ran by one member [DarkEXE](https://www.github.com/xDarkEXE)
 
-**Here are some ideas to get you started:**
+### What is AnyaStudios?
+AynaStudios makes mods, mod menus, trainers, etc for games. We have currently made:
+- LunaMod (Among Us) [Link to GitHub Repo](https://github.com/AnyaStudios/AmongUs-LunaMod)
+- TVControls (Bot for Twitch) [Link to GitHub Repo](https://github.com/AnyaStudios/TVControls)
+- IdleSlayer Trainer (Trainer for the Steam Game: Idle Slayer) [Link to GitHub Repo](https://github.com/AnyaStudios/IdleSlayer)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We currently use different programming languages, but our main two are:
+- Python
+- CSharp (C#)
