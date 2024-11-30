@@ -1,13 +1,10 @@
-## Welcome to AnyaStudios
+## 👋 About Us
+```diff
+! We make mods, mod menus, trainers, etc for Unity!
+- Mono & Il2Cpp Unity Games!
 
-AnyaStudios was founded in 2024 and currently ran by one member [DarkEXE](https://www.github.com/xDarkEXE)
++ Unreal Engine mods coming soon!
+```
 
-### What is AnyaStudios?
-AynaStudios makes mods, mod menus, trainers, etc for games. We have currently made:
-- LunaMod (Among Us) [Link to GitHub Repo](https://github.com/AnyaStudios/AmongUs-LunaMod)
-- TVControls (Bot for Twitch) [Link to GitHub Repo](https://github.com/AnyaStudios/TVControls)
-- IdleSlayer Trainer (Trainer for the Steam Game: Idle Slayer) [Link to GitHub Repo](https://github.com/AnyaStudios/IdleSlayer)
-
-We currently use different programming languages, but our main two are:
-- Python
-- CSharp (C#)
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
